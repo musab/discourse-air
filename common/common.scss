@@ -6,7 +6,7 @@
   h1 {
     line-height: var(--line-height-small);
     @include breakpoint("large", min-width) {
-      font-size: 4em;
+      font-size: 28px;
     }
   }
   p {
